@@ -231,6 +231,114 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 1239590,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "asldkaslk",
+      "description": "kaslkadsj+",
+      "location": "saddsaads",
+      "date": "2022-02-02T09:30:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 2071825,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "adsasd",
+      "description": "dsadsa",
+      "location": "dsadsa",
+      "date": "2022-02-17T09:30:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 2643605,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "SUCCESS",
+      "description": "dasdsa",
+      "location": "dasdsa",
+      "date": "2022-02-17T09:46:00.000Z",
+      "time": "13:00",
+      "attendees": []
+    },
+    {
+      "id": 2672139,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Sucress",
+      "description": "sad",
+      "location": "dsa",
+      "date": "2022-02-17T10:02:00.000Z",
+      "time": "11:00",
+      "attendees": []
+    },
+    {
+      "id": 7735674,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "dsadsa",
+      "description": "adsads",
+      "location": "dsadsa",
+      "date": "2022-02-03T10:03:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 101566,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "dsads",
+      "description": "dsaads",
+      "location": "dsadsa",
+      "date": "2022-02-17T10:04:00.000Z",
+      "time": "",
+      "attendees": []
     }
   ]
 }
