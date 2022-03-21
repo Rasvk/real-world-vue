@@ -242,4 +242,18 @@ select:focus::ms-value {
 select::ms-expand {
   opacity: 0;
 }
+.error {
+  border: 1px solid red;
+  color: #d8000c;
+  background-color: #ffbaba;
+}
+.errorMessage {
+  color: red;
+  background-image: url('https://i.imgur.com/GnyDvKN.png');
+  margin: 10px auto;
+  padding: 15px 10px 15px 50px;
+  background-repeat: no-repeat;
+  background-position: 10px center;
+  max-width: 460px;
+}
 </style>
