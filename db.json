@@ -249,6 +249,24 @@
       "date": "2022-03-03T11:12:00.000Z",
       "time": "13:00",
       "attendees": []
+    },
+    {
+      "id": 4982900,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Puppy Parade",
+      "description": "This is just a test",
+      "location": "Oslo, Norway",
+      "date": "2022-03-31T07:17:00.000Z",
+      "time": "21:00",
+      "attendees": []
     }
   ]
 }
